@@ -1,0 +1,11 @@
+1.Salary by Sex:
+From the plot it is clear to see that the number of men that earn more than 50K is much higher than the women.
+
+2.Salary by Maritual status:
+From the plot it is clear that those who make more than 50K are more likely to be married than to be single.
+In my opinion this was an interesting fact as i thought that it would be the single people who make more money.
+
+3.Salary by Education:
+From the plot it is clear that people who have a doctorate, professional school or master are more likely to earn above 50K 
+as compared to others. 
+This fact came as no surprise.
